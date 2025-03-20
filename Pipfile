@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 ipdb = "*"
+sqlalchemy = "*"
+alembic = "*"
 
 [dev-packages]
+ipdb = "*"
 
 [requires]
 python_version = "3.8"
